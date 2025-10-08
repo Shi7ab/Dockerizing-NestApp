@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -203,9 +203,3 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 ```
 
----
-
-لو تحب، أقدر أعمل ليك بعد كدا **نسخة جاهزة للـ database module في NestJS مع TypeORM** عشان يشتغل مع PostgreSQL مباشرة بدون تعديل الكود الأصلي.  
-
-تحب أعملها؟
-```
